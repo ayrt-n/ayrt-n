@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a full stack web developer from Ontario, Canada. While my more "traditional" academic background is in economics and finance, through my own interests and hobbies, I fell in love with programming and building and am currently looking for opportunities to continue learning and growing as a developer!
+
+Quick facts:
+- Currently working through [The Odin Project](www.theodinproject.com) ✨
+- Learning fullstack web development:
+  - Ruby and Ruby on Rails 💎 🚂
+  - HTML, CSS, Javascript ☕️
+- Looking for opportunities as a fullstack/backend developer 👨🏻‍💻
+- Fun fact: Named after the Brazilian Formula 1 driver, Ayrton Senna 🏎
+
 <!--
 **ayrt-n/ayrt-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
