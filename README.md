@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack web developer from Ontario, Canada. While my more "traditional" academic background is in economics and finance, through my own interests and hobbies, I fell in love with programming and building. I am currently looking for any opportunities to continue to learn and grow as a developer!
+I am a full stack web developer from Ontario, Canada. While my more "traditional" academic background is in economics and finance, through my own interests and hobbies, I fell in love with programming and building. I am currently looking for any opportunities to continue my journey and learn/grow as a developer!
 
 Quick facts:
 - Currently working through [The Odin Project](www.theodinproject.com) ✨
